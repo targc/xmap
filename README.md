@@ -5,9 +5,9 @@
 ## 🚀 Features
 
 - ⚡ **High Performance** — Fast lookups, inserts, and deletes
-- 🔒 **Thread Safe** — Built-in concurrency protection using `sync.RWMutex`
+- 🔒 **[TODO] Thread Safe** — Built-in concurrency protection using `sync.RWMutex`
 - 🧠 **Lightweight** — Minimalistic design with zero external dependencies
-- ⏱️ **TTL Support** *(optional)* — Built-in expiration handling for keys (if implemented)
+- ⏱️ **[TODO] TTL Support** *(optional)* — Built-in expiration handling for keys
 - 🧹 **Easy to Extend** — Clean and modular design
 
 ## 📦 Installation
